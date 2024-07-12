@@ -2,7 +2,7 @@ export const Bio = {
     name: "Archi Patel",
     image: "src/images/me.jpg",
     roles: ["Full Stack Developer.", "Programmer.", "Competitive Coder."],
-    description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    description: "I am a full stack developer with expertise in creating complete web applications. I work with React and Angular for the front-end, and Node.js for the back-end. My skills include working with databases like MongoDB and SQL, and deploying applications on cloud platforms such as AWS. I am dedicated to using technology to develop efficient solutions and deliver excellent user experiences.",
     github: "https://github.com/Archipatel12",
     resume: "https://drive.google.com/file/d/1oqc_bVgLqEYKmUi45v1VG0tA5zw4HWHD/view?usp=sharing",
     // resume: "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
