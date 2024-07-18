@@ -149,7 +149,7 @@ export const skills = [
 export const experiences = [
     {
         id: 0,
-        img: "https://alpha-stark.github.io/images/ProExeLancers.jpg",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF9YpGPTeR-x8-Nqta6qt5GQfe4t21krCagw&s",
         role: "Web Developer",
         company: "InternPE (ExeLance IT)",
         date: "May 2024 - June-2024",
